@@ -1,0 +1,108 @@
+body{
+background-color:#f5f5f5 ;
+text-align: center;
+font-family: 'Courgette', cursive;
+font-family: 'Philosopher', sans-serif;
+}
+.colum2{
+    background-image:linear-gradient(rgb(96, 96, 226),rgb(46, 118, 146)) ;
+    height: 43rem;
+    margin-top: 1.5rem;
+    border-radius: 2rem;
+    box-shadow: 0px 6px 12px 9px rgb(73, 27, 82);
+}
+.verification-text{
+    color: white;
+    margin-top: 1.5rem;
+    
+    
+}
+.rest-img{
+    width: 11rem;
+    height: 11rem;
+    
+}
+.reset-txt{
+    color:white;
+}
+.text-para1{
+margin: 0;
+font-weight: 600;
+color: white;
+}
+.text-para2{
+
+font-weight: 600;
+color: rgb(243, 235, 235);
+}
+.pass1{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #141f3d;
+    margin-bottom: 2.5rem;
+    width: 25rem;
+    padding: 0;
+    padding-bottom: .8rem;
+}
+
+.pass2{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #141f3d;
+    margin-bottom: 1.5rem;
+    width: 25rem;
+    margin-bottom: 5rem;
+    padding: 0;
+
+}
+.create{
+    width: 24rem;
+    height: 3rem;
+    border-radius: 1.5rem;
+}
+.lock1{
+    position: absolute;
+}
+   
+.eye1{
+   position: absolute;
+   right: 3.5rem;
+}
+    
+::placeholder{
+    color: rgb(12, 27, 54);
+    opacity: .5rem;
+    /* padding-left: 1.5rem;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem; */
+}
+@media (max-width: 768px) {
+.colum2{
+    margin-left:0rem;
+    margin-top: 0rem;
+    padding: 0rem;
+    border-radius: 0rem;
+    height: 45rem;
+    }
+    .pass1{
+        margin: 1.5rem;
+        padding: 0rem;
+        width: 20rem;
+    }
+    .pass2{
+        margin: 1.5rem;
+        padding: 0rem;
+        width: 20rem;
+    }
+/* .form-cls{
+    margin: 0rem;
+    padding: 0rem;
+    margin-left:0rem;
+}   */
+.create{
+    margin: 0rem;
+    padding:0rem;
+    width: 21rem;
+}
+ 
+}
