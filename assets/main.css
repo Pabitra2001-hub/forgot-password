@@ -78,11 +78,11 @@ color: rgb(243, 235, 235);
 }
 @media (max-width: 768px) {
 .colum2{
-    margin-left:0rem;
+     margin-left:0rem;
     margin-top: 0rem;
     padding: 0rem;
     border-radius: 0rem;
-    height: 45rem;
+    height: 49rem;
     }
     .pass1{
         margin: 1.5rem;
