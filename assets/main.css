@@ -57,9 +57,10 @@ color: rgb(243, 235, 235);
 
 }
 .create{
-    width: 24rem;
+     width: 24rem;
     height: 3rem;
     border-radius: 1.5rem;
+    margin-top: 2.3rem;
 }
 .lock1{
     position: absolute;
