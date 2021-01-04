@@ -41,8 +41,8 @@ color: rgb(243, 235, 235);
     border-bottom: 1px solid #141f3d;
     margin-bottom: 2.5rem;
     width: 25rem;
-    padding: 0;
-    padding-bottom: .8rem;
+/*     padding: 0; */
+    padding-bottom: .7rem;
 }
 
 .pass2{
@@ -52,7 +52,8 @@ color: rgb(243, 235, 235);
     margin-bottom: 1.5rem;
     width: 25rem;
     margin-bottom: 5rem;
-    padding: 0;
+     padding-bottom: .7rem;
+/*     padding: 0; */
 
 }
 .create{
